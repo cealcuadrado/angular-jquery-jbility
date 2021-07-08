@@ -29,10 +29,12 @@
             "styles": [
               "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "./node_modules/@fortawesome/fontawesome-free/css/all.css",
+              "src/assets/plugins/jbility/css/jbility.min.css",
               "src/styles.scss"
             ],
             "scripts": [
-              "./node_modules/jquery/dist/jquery.min.js"
+              "./node_modules/jquery/dist/jquery.min.js",
+              "src/assets/plugins/jbility/js/jbility.min.js"
             ]
           },
           "configurations": {
